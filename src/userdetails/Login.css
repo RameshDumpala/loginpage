@@ -1,0 +1,66 @@
+.card{
+    width: 400px;
+    height: 430px;
+    border-radius: 20px;
+    text-align: center;
+    background-image: linear-gradient(
+        to bottom ,
+        #4f5bd5,
+        #962fbf,
+        #fa7e1e
+      );
+}
+h2{
+    color: #ffffffdb;
+    font-size: 25px;
+}
+b{
+    color: rgba(240, 248, 255, 0.777);
+     
+}
+.inpute_name{
+    width: 294px;
+    margin: 25px 0px;
+    height: 41px;
+    border-radius: 6px;
+}
+.inpute_password{
+    width: 294px;
+    height: 41px;
+    border-radius: 6px;
+}
+ 
+p{
+    color: #ffffffdb;
+    font-size: 16px; 
+ 
+}
+.login_button{
+    width: 200px;
+    height: 41px; 
+    border-radius: 8px;
+    color: #FFFF;
+    background-color: rgb(52, 52, 228);
+
+}
+
+.spanContainer{
+    width: 330px;
+display: flex;
+align-items: center;
+justify-content: space-around;
+margin-left: 45px;
+line-height: 40px;
+
+}
+
+ span{
+    width: 120px; 
+    height: 1.5px;
+    background-color:black;
+
+    
+ }
+ a{
+text-decoration:none;
+ }
